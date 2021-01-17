@@ -3,7 +3,7 @@
 [Tableau Story](https://public.tableau.com/profile/adam.womer#!/vizhome/Module14_Challenge_16108275371180/NYCCitibikeAnalysis?publish=yes "link to dashboard")
 
 ### Overview
-The purpose of this analysis is to determine best practices for bike sharing utilizing NYC Citibike data. 
+The purpose of this analysis is to determine best practices for a successful bike sharing program utilizing NYC Citibike data. 
 
 ### Results
 #### Tableau Viz
@@ -15,7 +15,6 @@ The purpose of this analysis is to determine best practices for bike sharing uti
 6. **Peak Hours.** A bargraph showing peak checkout times.
 7. **Starting Location Activity.** A geographical map showing starting location activity.
 8. **Ending Location Activity.** A geographical map showing ending location activity.
-
 
 ### Summary
 #### Analysis Note
