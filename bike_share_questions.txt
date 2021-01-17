@@ -1,0 +1,7 @@
+What is the initial setup cost?
+What is the cost of maintenance?
+How often do bikes need to be replaced?
+What is the rate of theft?
+What is the cost of real estate?
+What is a reasonable rental rate?
+How many people are required to maintain the system?
