@@ -6,6 +6,7 @@
 The purpose of this analysis is to determine best practices for bike sharing utilizing NYC Citibike data. 
 
 ### Results
+#### Tableau Viz
 1. **Checkout Times for Users.** The average duration that bikes are checked out.
 2. **Checkout Times by Gender.** The average duration that bikes are checked out based on the rider's gender.
 3. **Trips by Weekday per Hour.** A heatmap showing peak checkout times by weekday per hour.
@@ -17,5 +18,5 @@ The purpose of this analysis is to determine best practices for bike sharing uti
 
 
 ### Summary
-###### Analysis Note
+#### Analysis Note
 Based on the visualizations within the challenge instructions, the datetime unit parameter for tripduration needs to be set to minutes to replicate the results in the module. However, based on the results of the analysis, I feel that it is supposed to be set to seconds. The hottest start and stop locations are at West 39th St Terminal, Grand Central Terminal, Union Square, and West St & Chambers St during the hours of 8am and 5pm. The largest rider demographic are males with a Citibike subscription. When all these pieces of information are combined, you have male commuters that take mass transit into Manhattan and then take a Citibike for the last mile of their journey. This last leg on a bike should only take about 5 minutes. Ergo, I am inclined to believe that the tripduration is indeed in seconds and not minutes.
